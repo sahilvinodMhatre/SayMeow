@@ -46,12 +46,6 @@ export default function Cats() {
     return (
         <>
 
-            <style>
-                {`
-                
-
-            `}
-            </style>
 
 
 
